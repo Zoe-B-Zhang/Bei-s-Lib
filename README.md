@@ -6,6 +6,8 @@
 - [Roadmap1- by Virgilio](https://github.com/clone95/Virgilio) (like>10,000)
   - [study path here](https://github.com/clone95/Virgilio/tree/master/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path)
     - resources listed on the page - check them on the page directly 
+    
+- [学习路线 ](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
 ### ML 资源
 - [机器学习资源收集1](https://github.com/allmachinelearning/MachineLearning)
